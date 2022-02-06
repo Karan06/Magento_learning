@@ -10,6 +10,7 @@
     <list default="true" id="2acfec50-2694-47f0-b69b-fffdf8654fa3" name="Changes" comment="Intial Commits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.php_cs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.php_cs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Mastering/SampleModule/Setup/InstallSchema.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Mastering/SampleModule/Setup/InstallSchema.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/code/Mastering/SampleModule/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Mastering/SampleModule/registration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generated/code/Composer/Console/ApplicationFactory.php" beforeDir="false" />
@@ -1331,7 +1332,7 @@
       <workItem from="1644155513976" duration="243000" />
       <workItem from="1644156053568" duration="68000" />
       <workItem from="1644156141771" duration="4000" />
-      <workItem from="1644156224283" duration="11906000" />
+      <workItem from="1644156224283" duration="12207000" />
     </task>
     <servers />
   </component>
