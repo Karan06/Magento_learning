@@ -1,0 +1,1 @@
+/private/var/www/html/project/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js
