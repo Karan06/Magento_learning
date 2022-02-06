@@ -2,14 +2,13 @@
 /**
  * project - InstallData.php
  *
- * Initial Version By: karangiri
+ * Initial Version By: kangarooing
  * Initial Version Created On: 06/02/22 11:38 PM
  */
 
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
-use Mastering\SampleModule\Setup;
 
 class InstallData implements InstallDataInterface
 {

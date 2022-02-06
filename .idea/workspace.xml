@@ -10,6 +10,7 @@
     <list default="true" id="2acfec50-2694-47f0-b69b-fffdf8654fa3" name="Changes" comment="Intial Commits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.php_cs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.php_cs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Mastering/SampleModule/Setup/InstallData.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Mastering/SampleModule/Setup/InstallData.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/code/Mastering/SampleModule/Setup/InstallSchema.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Mastering/SampleModule/Setup/InstallSchema.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---3d9_APP_CE79F7EF764E9F981C8549B9DBEC468F" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---3d9_APP_CE79F7EF764E9F981C8549B9DBEC468F" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---3d9_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_INDEX_PRICE_CFG_OPT_TEMP_1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---3d9_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_INDEX_PRICE_CFG_OPT_TEMP_1" afterDir="false" />
@@ -1032,7 +1033,7 @@
       <workItem from="1644155513976" duration="243000" />
       <workItem from="1644156053568" duration="68000" />
       <workItem from="1644156141771" duration="4000" />
-      <workItem from="1644156224283" duration="14402000" />
+      <workItem from="1644156224283" duration="15804000" />
     </task>
     <servers />
   </component>
