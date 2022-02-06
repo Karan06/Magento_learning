@@ -1,1 +1,0 @@
-/private/var/www/html/project/lib/web/mage/cookies.js

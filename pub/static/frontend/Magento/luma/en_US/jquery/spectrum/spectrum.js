@@ -1,1 +1,0 @@
-/private/var/www/html/project/lib/web/jquery/spectrum/spectrum.js
